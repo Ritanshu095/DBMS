@@ -1,1 +1,1 @@
-Queries to fetch data from movie database using PostgreSQL
+Queries to fetch data from movie & ecommerce database using PostgreSQL
